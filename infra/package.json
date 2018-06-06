@@ -1,0 +1,13 @@
+{
+  "name": "try-aws-infra",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "cloudform main.ts"
+  },
+  "dependencies": {
+    "cloudform": "^2.0.1",
+    "typescript": "^2.9.1"
+  }
+}

@@ -1,0 +1,16 @@
+module.exports = {
+  printWidth: 100,
+  tabWidth: 2,
+  useTabs: false,
+  semi: true,
+  singleQuote: true,
+  trailingComma: 'all',
+  bracketSpacing: true,
+  arrowParens: 'avoid',
+  rangeStart: 0,
+  rangeEnd: Infinity,
+  filepath: '**/*.ts',
+  requirePragma: false,
+  insertPragma: false,
+  proseWrap: 'always',
+};
